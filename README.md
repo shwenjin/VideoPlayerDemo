@@ -1,4 +1,4 @@
-# SimpleVideoPlayerLib
+# VideoPlayerDemo
     简单的视频播放器
 ##### 1、添加build.gradle 
 
